@@ -1,0 +1,16 @@
+cmake
+eigen
+ffmpeg
+fzf
+gcc
+git
+htop
+nmap
+opencv
+qt
+starship
+tmux
+unzip
+zsh-autosuggestions
+zsh-syntax-highlighting
+--cask wireshark   
