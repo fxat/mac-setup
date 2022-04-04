@@ -105,8 +105,8 @@ export PATH
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # STM32
 export PATH=$PATH:/usr/local/bin/gcc-arm-none-eabi-9-2019-q4-major/bin

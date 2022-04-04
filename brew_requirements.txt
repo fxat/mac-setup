@@ -1,4 +1,5 @@
 cmake
+docker
 eigen
 ffmpeg
 fzf
